@@ -1,5 +1,5 @@
 # police-app
-App developed for Alphalog Caledonie as a junior developer with React Native, NodeJS and Firebase
+App developed for Alphalog Caledonie as a junior developer with React Native (javascript), NodeJS and Firebase
 
 Project is private
 
